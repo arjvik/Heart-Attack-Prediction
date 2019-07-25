@@ -1,5 +1,6 @@
 # Heart Attack Prediction
-Using Machine Learning models to effectively predict heart attacks in patients using data easily obtainable from a standard doctor's appointment
+
+Using Machine Learning models to effectively predict heart attacks before they happen using data easily obtainable from a standard doctor's appointment
 
 ## Best Classifier scores (selected by Recall)
 
@@ -20,6 +21,10 @@ The dataset is available from Kaggle [here.](https://www.kaggle.com/imnikhilanan
 Models were trained on all samples with a train-test split of either 80/20 or 90/10. The metrics evaluated were precision, recall, accuracy, F1 score, and F2 score.
 
 The decision was made to choose the model via Recall, since in this application a false negative puts the individual at risk due to not receiving the required treatment.
+
+## Next Steps
+
+I worked on this project as a part of my summer internship as a Data Analyst at pSolv. I presented it to the founders of the company, and we are planning to pitch it to the international hospital chain Christus, who we have worked with in the past. If our proposal is successfull, I will be working with sensitive data, so I will not be able to publish anything here.
 
 ---
 
