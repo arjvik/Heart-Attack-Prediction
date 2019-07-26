@@ -24,7 +24,7 @@ The decision was made to choose the model via Recall, since in this application 
 
 ## Next Steps
 
-I worked on this project as a part of my summer internship as a Data Analyst at pSolv. I presented it to the founders of the company, and we are planning to pitch it to the international hospital chain Christus, who we have worked with in the past. If our proposal is successfull, I will be working with sensitive data, so I will not be able to publish anything here.
+I worked on this project as a part of my summer internship as a Data Analyst at pSolv. I presented it to the founders of the company, and we are planning to pitch it to the international hospital chain Christus, who we have worked with in the past. [Here](https://docs.google.com/presentation/d/1x8kv5o3TY47nkiJoUJo3Bzw700LsIpx8YrAaJi0HNUQ/edit?usp=sharing) is the presentation I used. If our proposal is successful, I will be working with sensitive data, so I will not be able to publish anything here.
 
 ---
 
