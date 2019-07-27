@@ -12,11 +12,11 @@ Using Machine Learning models to effectively predict heart attacks before they h
 
 The dataset has 294 rows, with 14 features. Several of the values are missing, and are marked with `?`.
 
-The dataset is available from Kaggle [here.](https://www.kaggle.com/imnikhilanand/heart-attack-prediction)
+The dataset can be found in `heart-attack-prediction.csv.xz` in this repository. Use the command `xz -d *.csv.xz` to decompress the archive. It is also available from Kaggle [here.](https://www.kaggle.com/imnikhilanand/heart-attack-prediction)
 
 ## Model Accuracy Report
 
-![Model Accuracy Report](./Model%20Accuracy%20Report.png)
+[![Model Accuracy Report](./Model%20Accuracy%20Report.png)](https://docs.google.com/spreadsheets/d/1j-ZZxGc_pj-nXmPhzo0GSiQiJ4NWvFDn3Jmr3aBoHBI/edit?usp=sharing)
 
 Models were trained on all samples with a train-test split of either 80/20 or 90/10. The metrics evaluated were precision, recall, accuracy, F1 score, and F2 score.
 
